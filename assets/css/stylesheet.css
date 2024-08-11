@@ -1,7 +1,7 @@
 
 @font-face { font-family: "Lato"; src: url('../fonts/Orbitron-Regular.ttf'); }
 body {
-	background-image: url(../assets/img/war.png);
+	background-image: url(../img/war.png);
 	background-size: cover;
 	background-position: top center;
 	background-color:#FFF;
